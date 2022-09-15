@@ -68,7 +68,7 @@ export const NavBar = () => {
                 }
                 onClick={() => onUpdateActiveLink("achievements")}
               >
-                Achievements
+                Education
               </Nav.Link>
               <Nav.Link
                 href="#projects"
